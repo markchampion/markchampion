@@ -17,7 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![IntelljIDE](https://img.shields.io/badge/IntelliJ%20IDEA-blue)
+![IntelljIDE](https://img.shields.io/badge/IntelliJ%20IDEA-black)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
